@@ -1,5 +1,9 @@
 # NBA-Winner-Predictor-using-Python
 
+Direct link for the ipnyb file in case github fails to render the ipnyb file here.
+https://nbviewer.jupyter.org/github/shethsukhada/NBA-Winner-Predictor-using-Python/blob/master/Decision%20Trees%20and%20Random%20Forests.ipynb
+
+
 Built a predictive model using Decision trees to find the NBA game winner.
 Improved the results by adding additional features by Feature engineering.
 
